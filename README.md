@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-# innocuous change to readme to demo git features... :)
+innocuous change to readme to demo git features... :)
