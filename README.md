@@ -1,26 +1,20 @@
-# README
+# Rails Portfolio Application Readme
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This portfolio application will use modern Rails practices, generators, scaffolds, RESTful requests, and views built with SCSS, jquery, and Bootstrap.
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+- scaffolds
+- SSH keys
+- auth
+- SCSS
+- jquery
 
-* System dependencies
+### Fun example ruby codeblock below:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-innocuous change to readme to demo git features... :)
+```ruby
+# example ruby codeblock in markdown language
+def ruby_method(arg)
+	puts "some ruby code here :)"
+end
+```
